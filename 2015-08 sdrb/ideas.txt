@@ -1,0 +1,14 @@
+
+- don't believe anything this guy is saying (except rfnoc)
+- the physics of opening bottles
+- other beverages: possible, but not recommended (because you'll get laughed at)
+
+- rtlsdr
+- octoclock: struts, annoying: long, thick package
+- x300: careful, scratch paint
+- perfect: e310
+- b205
+- b210: careful! don't bend, don't use usb or sma ports
+- usrp1, usrp2: classics: 
+- rfnoc: what does it do?
+
